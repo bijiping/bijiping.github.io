@@ -1,2 +1,2 @@
-# XY-boy.github.io
-[XY-boy.github.io](https://xy-boy.github.io/)
+# bijiping.github.io
+[bijiping.github.io](https://bijiping.github.io/)
